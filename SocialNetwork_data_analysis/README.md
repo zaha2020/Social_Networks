@@ -2,5 +2,5 @@
 
 ## Decription:
 
-In this project, different analyzes such as graph topology, distribution of the number of content, number of visits to the channels were done using the NetworkX library, and also the top 10 of different criteria, such as betweenness, efficiency, Page Rank, etc., were performed using the Gephi software and its tools.
+In this project, various analyzes such as graph topology, distribution of the number of content, number of visits to channels were performed using the NetworkX library. as well as the top 10 nodes of various criteria such as betweenness, efficiency, page rank, etc., using Gephi software and tools was found and finally the cause of superiority was investigated.
 
