@@ -7,6 +7,6 @@ In the first phase, a general study was conducted on technical analysis, types o
 ![An overview of the project’s steps](shema.PNG "output of network ")
 
 ## Result:
-Now, in the last phase and the fourth phase, we will have two types of predictions using recurrent neural networks, in the first prediction, we predict the stock market price from the tables of the third phase, and in the second prediction, from the combination of the indicators of the tables of the second phase and Third, we use it to predict the price. In fact, we enter social data into the prediction.
+In the last phase and the fourth phase, we will have two types of predictions using recurrent neural networks, in the first prediction, we predict the stock market price from the tables of the third phase, and in the second prediction, from the combination of the indicators of the tables of the second phase and Third, we use it to predict the price. In fact, we enter social data into the prediction.
 
 ![An overview of the project’s steps](shema3.PNG "output of network ")
