@@ -1,6 +1,8 @@
-# Analysis of data of dollar and its prices in Telegram channels
+# A real time BigData system for analysis of online Persian Twitter data
 
 ## Decription:
 
-In this project, different analyzes such as graph topology, distribution of the number of content, number of visits to the channels were done using the library, and also the top 10 of different criteria, such as betweenness, efficiency, Page Rank, etc., were performed using the Gephi software and its tools.
+This Project is a group work with [Armin Ayatollahi](https://github.com/arminayat), [Yara M. Bahram
+](https://github.com/yaramohamadi), [mohammad-nili](https://github.com/mohammad-nili). in this project we used online Persian Twitter data for Designing a real-time system. 
 
+![Schematic](https://github.com/arminayat/bigdata-finalproject/blob/main/schematic.png)
