@@ -1,4 +1,4 @@
-# Data analysis of dollar prices in Telegram channels
+# An analysis of Telegram channels related to the dollar and its price
 
 ## Decription:
 
