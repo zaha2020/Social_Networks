@@ -10,7 +10,7 @@ This repository contains my Social Networks Projects during University and the p
 
 
 ### Stock Market analysis
-- [The effect of the combination of economic and social analysis on the prediction of stock price fluctuations](https://github.com/zaha2020/Social_Networks/tree/main/Eco_social_analysis_on_stock)
+- [Examining the effect of combining economic and social analysis on the prediction of stock price fluctuations](https://github.com/zaha2020/Social_Networks/tree/main/Eco_social_analysis_on_stock)
 
 
 
